@@ -38,7 +38,13 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
-    }
+    },
+    "Volei Class": {
+            "description": "Volleyball education and sports activities",
+            "schedule": "Mondays, Wednesdays, Fridays, 5:00 PM - 7:00 PM",
+            "max_participants": 30,
+            "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+        }
 }
 
 
